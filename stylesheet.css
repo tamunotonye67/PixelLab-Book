@@ -105,3 +105,8 @@ h1 {
 		padding-bottom: 0px !important;
 	}
 }
+
+/* Star rating color */
+i.bi-star-fill {
+	color: gold;
+}
