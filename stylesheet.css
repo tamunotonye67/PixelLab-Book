@@ -1,0 +1,107 @@
+#title {
+	background-color: #EEEEEE;
+	color: #2B4F60;
+	padding-bottom: 5%;
+}
+
+
+.body {
+
+	margin: 0px;
+}
+
+.container-fluid {
+
+	padding: 2% 13%;
+	
+
+}
+
+
+.title-detail {
+
+	padding-top: 8%;
+}
+
+.worry-text {
+	padding-top: 3%;
+}
+
+.book-png {
+
+	width: 100%;
+	height: auto;
+	margin-left: 55px;
+	transition: 1s ease-in-out;
+	
+}
+
+.booky:hover .book-png {
+	-webkit-transform: scale(1.1);
+	-moz-trasform:  scale(1.1);
+	-ms-trasform: scale(1.1);
+	-o-transform: scale(1.1);
+	transform: scale(1.1);
+
+}
+
+
+h1 {
+	
+	font-size: 3rem;
+	line-height: 1.5;
+	text-decoration-style: bold;
+}
+
+
+/*Nnavigation Bar */
+
+.navbar {
+	padding: 0 0 4.5rem;
+
+}
+
+.navbar-brand {
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.navbar-item {
+	padding: 0 20px;
+}
+
+.nav-link {
+	font-size: 1.1rem;
+}
+
+
+/*Download Buttons*/
+
+.buy-button {
+	margin: 5% 3% 5% 0%;
+}
+
+
+
+
+/*Pricing */
+
+.img-fluid {
+	display: inline-block;
+}
+
+/*
+@media(max-width: 990px){
+	.booky{
+		width: 100%;
+		margin-top: 10%;
+	}
+	.booky span img{
+		width: 70%;
+	}
+
+	nav{
+		margin-bottom: 0px !important;
+		padding-bottom: 0px !important;
+	}
+}
